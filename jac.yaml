@@ -1,0 +1,9 @@
+name: jaseci-learning-platform
+version: 1.0.0
+description: Project 1 - Interactive Learning Platform (Hackathon Dec 2025)
+default_sent:
+  name: learning_sentinel
+  code:
+    - main.jac
+    - agents.jac
+    - walkers.jac
